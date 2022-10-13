@@ -5,7 +5,9 @@ const nextConfig = {
   images: {
     loader: "akamai",
     path: "",
-  }
+  },
+  basePath: "/nextjs-minipage",
+  assetPrefix: "nextjs-minipage",
 };
 
 module.exports = nextConfig
