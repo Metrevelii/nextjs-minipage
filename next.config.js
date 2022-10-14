@@ -2,7 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  
+  // images: {
+  //   loader: "akamai",
+  //   path: "",
+  // },
+  // basePath: "/nextjs-minipage",
+  // assetPrefix: "/nextjs-minipage",
   
   
 };
