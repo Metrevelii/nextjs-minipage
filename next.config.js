@@ -6,8 +6,8 @@ const nextConfig = {
     loader: "akamai",
     path: "",
   },
-  basePath: "/nextjs-minipage/nextjs-minipage",
-  assetPrefix: "nextjs-minipage/nextjs-minipage",
+  basePath: "/nextjs-minipage",
+  assetPrefix: "nextjs-minipage",
 };
 
 module.exports = nextConfig
