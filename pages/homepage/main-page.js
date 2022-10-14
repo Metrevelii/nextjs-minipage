@@ -1,9 +1,9 @@
 const MainPage = () => {
   return (
-    <div class="flex flex-col m-auto w-full mt-20 lg:w-1/2 px-5 lg:mt-40">
-      <h3 class="text-3xl text-center">Linkin Park</h3>
+    <div className="flex flex-col m-auto w-full mt-20 lg:w-1/2 px-5 lg:mt-40">
+      <h3 className="text-3xl text-center">Linkin Park</h3>
       <div>
-        <p class="mt-2 text-center">
+        <p className="mt-2 text-center">
           Linkin Park is an American rock band from Agoura Hills, California.
           The bands current lineup comprises vocalist/rhythm guitarist Mike
           Shinoda, lead guitarist Brad Delson, bassist Dave Farrell,
@@ -21,7 +21,7 @@ const MainPage = () => {
           the third-best of the new millenium. Billboard ranked Linkin Park No.
           19 on the Best Artists of the Decade list.
         </p>
-        <p class="mt-9 text-center">
+        <p className="mt-9 text-center">
           Linkin Park released 20th anniversary celebratory album of their debut
           album Hybrid Theory. It was released through Warner Records on
           October 9, 2020. It includes five CDs, three DVDs and three vinyl LPs.
