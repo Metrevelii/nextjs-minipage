@@ -1,4 +1,3 @@
-import MainPage from "./homepage/main-page";
 import Link from "next/Link";
 
 export default function Home({ pokemon }) {
